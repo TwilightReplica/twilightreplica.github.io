@@ -18,7 +18,7 @@ $(function() {
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
     var tKillNames = ["Twilight Replica"];M", "olofmeister", "Don Beton", "Radius", "Spacelight", "boocore", "Bios", "jvanmonsta", "Keki", "PAA42", "Xetmet", "Nifhelm", "Xoxol, "Muro"];
-    var ctKillNames = ["coldzera", "FalleN", "dev1ce", "s1mple", "Snax", "kennyS", "NiKo", "Screa
+    var ctKillNames = ["coldzera", "FalleN", "dev1ce", "s1mple", "Snax", "kennyS", "NiKo", "Scream"]
     var weapons = ["Ssg08", "Ak47", "Deagle", "M4a4"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
