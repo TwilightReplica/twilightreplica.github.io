@@ -17,7 +17,7 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
-    var tKillNames = ["c0nfus3d-"];
+    var tKillNames = ["Twilight Replica"];
     var ctKillNames = ["Don Beton", "Radius", "Spacelight", "boocore", "Bios", "jvanmonsta", "Keki", "PAA42", "Xetmet", "Nifhelm", "Xoxol", "Muro"];
     var weapons = ["Ssg08", "Ak47", "Deagle", "M4a4"];
     var $killFeedContainer = $('.kill-feed');
