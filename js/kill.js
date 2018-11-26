@@ -18,7 +18,7 @@ $(function() {
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
     var tKillNames = ["Twilight Replica"];
-    var ctKillNames = ["Nifhelm", "Kristina", "Xetmet", "Russkiy Kot", "Keki", "Gevin", "Spacelight", "Rinamur", "Xoxol", "Don Beton", "Muse(Sters)", "GreenFire17", "Sinester", "boocore", "PAA42", "Hiden", "Dr.Blacker", "Grape", "Twilight Sparkle", ".HITMAN...", "Pedek", "Raduis", "voldemar132", "Bios", "Jvan", "Hyper Game", "Muro", "☜☢CrazyChocolate☢☞", "Cheerful Gem"];
+    var ctKillNames = ["Nifhelm", "Kristina", "Xetmet", "Russkiy Kot", "Keki", "Gevin", "Spacelight", "Rinamur", "Xoxol", "Don Beton", "Muse(Sters)", "GreenFire17", "Sinester", "boocore", "PAA42", "Hiden", "Dr.Blacker", "Grape", "Twilight Sparkle", ".HITMAN...", "Pedek", "Raduis", "voldemar132", "Bios", "Jvan", "Hyper Game", "Muro", "☜☢CrazyChocolate☢☞", "Cheerful Gem", "Boshy666"];
     var weapons = ["ssg", "ak47", "AWP", "P90", "M4"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
